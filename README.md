@@ -1,4 +1,2 @@
 # SmallWebProject
-I am creating a project with frontend and backend separation for reviewing all the knowledge I have learn after carefully learning and understand the java tech stack like jwtToken, logging, data security, validation, etc.
-
-wuchenghe is ruozhi
+Build FULL-STACK Employee Management Web Apps using Java, Spring Boot 3, Spring Data JPA, Spring Security, JWT, JavaScript, React JS & MySQL
